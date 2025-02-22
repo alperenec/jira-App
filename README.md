@@ -2,6 +2,8 @@
 
 A task management application inspired by Jira. Some people refer to this project as a Shopping List or a To-Do App. This project enables users to create, update, view, and delete tasks through an interface. It leverages React for the frontend and JSON-server as a backend for development purposes.
 
+_The main branch contains the version of the project where local storage is not included._ 
+
 ---
 
 ## 📸 Photos from App
